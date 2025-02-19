@@ -35,7 +35,7 @@ app.get('/campgrounds', async (req, res) => {
 app.get('/campgrounds/new', (req, res) => {
     res.render('campgrounds/new');
 })
-
+//:id 보다 new가 먼저 와야 한다. 순서 중요
 app.post('/campgrounds', async (req, res) => {
     const campground = new Campground(req.body.campground);
     await campground.save();
