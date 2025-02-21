@@ -72,10 +72,7 @@ npm run dev
 - 지도 API를 활용한 위치 표시
 - 클라우드 스토리지를 이용한 이미지 업로드 (Cloudinary)
 
-## 📸 스크린샷
-![Yelp-Camp Home](https://via.placeholder.com/800x400?text=Yelp-Camp+Home)
-
 
 ## 📌 출처 (Attribution)
 이 프로젝트는 [The Web Developer Bootcamp 2025](https://www.udemy.com/course/the-web-developer-bootcamp/) 강의를 참고하여 제작되었습니다.
-일부 코드는 강의의 예제 코드를 기반으로 하지만, 개인적인 수정 및 개선이 포함되어 있습니다.
+개인적인 수정 및 개선이 포함되어 있습니다.
