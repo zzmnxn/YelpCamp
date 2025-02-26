@@ -1,12 +1,11 @@
 # Yelp-Camp
 
 Yelp-Camp는 캠핑장 리뷰 및 공유 웹 애플리케이션.
- 사용자는 캠핑장을 등록하고, 리뷰를 작성하며, 지도에서 위치를 확인할 수 있다. 이 프로젝트는 [The Web Developer Bootcamp 2025](https://www.udemy.com/course/the-web-developer-bootcamp/) 강의에서 클론코딩한 프로젝트이다.
+ 사용자는 캠핑장을 등록하고, 리뷰를 작성하며. 이 프로젝트는 [The Web Developer Bootcamp 2025](https://www.udemy.com/course/the-web-developer-bootcamp/) 강의에서 클론코딩한 프로젝트이다.
 
 ## 📌 프로젝트 개요
 - 캠핑장 정보를 등록하고 관리할 수 있는 기능 제공
 - 사용자 리뷰 및 평가 기능 지원
-- 지도 API를 활용한 위치 표시 기능
 - 사용자 인증 및 권한 관리
 
 ## 🚀 기술 스택
